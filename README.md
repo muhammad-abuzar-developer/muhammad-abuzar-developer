@@ -67,9 +67,9 @@ Professional roofing services website with responsive design and service-focused
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile link here
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-abuzar-b8349943a/
 - 🌐 Portfolio: Coming soon
-- 📧 Email: Add your professional email here
+- 📧 Email:muhammadabuzar.dev@gmail.com
 
 ---
 
